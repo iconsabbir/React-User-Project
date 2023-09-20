@@ -1,0 +1,31 @@
+
+.header{
+    background-color: #40407a;
+}
+.header-flax{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    padding: 20px 30px;
+
+    
+    
+}
+.logo {
+    text-decoration: none;
+    font-size: 28px;
+    margin-left: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #ff7f50;
+   
+}
+.user-Detels a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+}

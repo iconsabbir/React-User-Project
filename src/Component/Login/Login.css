@@ -1,0 +1,24 @@
+.login{
+    color: rgb(149, 87, 235);
+    text-align: center;
+    padding: 10px 0;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.loginbackground{
+    background-color: #dff9fb;
+    position: relative;
+    
+}
+.button-size{
+   margin: 48px 0 38px 0 ;
+  
+}
+.forget-password{
+    position: absolute;
+    top: 250px;
+    left: 25px;
+ 
+    
+}
